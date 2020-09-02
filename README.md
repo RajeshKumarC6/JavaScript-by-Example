@@ -1,4 +1,4 @@
-# JavaScript by Example
+# JavaScript by Example.
 This is the code repository for [JavaScript by Example](https://www.packtpub.com/web-development/javascript-example?utm_source=github&utm_medium=repository&utm_campaign=9781788293969), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 JavaScript is the programming language that all web developers need to learn. The first item on our JavaScript to-do list is building g a To-do list app, which you'll have done by the end of the first chapter. You'll explore DOM manipulation with JavaScript and work with event listeners. You'll work with images and text to build a Meme creator. You will also learn about ES (ECMAScript) classes, and will be introduced to layouts using the CSS3 Flexbox.
